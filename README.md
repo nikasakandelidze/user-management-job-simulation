@@ -38,4 +38,4 @@ All the Nitty-gritty details of all these features are explained in the correspo
 - [Docker](https://docs.docker.com/get-started/): Containerization mechanism to easily test, deploy and orchestrate application units.
 
 # Project high level design
-[Architecture diagram](./assets/architecture.png) 
+![Architecture diagram](./assets/architecture.png) 
