@@ -36,3 +36,6 @@ All the Nitty-gritty details of all these features are explained in the correspo
 - [SQLAlchemy](https://docs.sqlalchemy.org/en/14/tutorial/): Very( probably most ) popular Database driver/connector/ORM library for python and Relational db-s.
 - [Alembic](https://alembic.sqlalchemy.org/en/latest/): Popular database migration tool, which is battle tested by the community and used in production environments.
 - [Docker](https://docs.docker.com/get-started/): Containerization mechanism to easily test, deploy and orchestrate application units.
+
+# Project high level design
+[Architecture diagram](./assets/architecture.png) 
